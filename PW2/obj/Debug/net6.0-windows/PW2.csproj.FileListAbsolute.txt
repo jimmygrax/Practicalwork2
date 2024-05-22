@@ -1,0 +1,40 @@
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\bin\Debug\net6.0-windows\PW2.exe
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\bin\Debug\net6.0-windows\PW2.deps.json
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\bin\Debug\net6.0-windows\PW2.runtimeconfig.json
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\bin\Debug\net6.0-windows\PW2.dll
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\bin\Debug\net6.0-windows\PW2.pdb
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\obj\Debug\net6.0-windows\PW2.csproj.AssemblyReference.cache
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\obj\Debug\net6.0-windows\PW2.ForgotpaswordFORM.resources
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\obj\Debug\net6.0-windows\PW2.Form1.resources
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\obj\Debug\net6.0-windows\PW2.FormCalculator.resources
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\obj\Debug\net6.0-windows\PW2.ReguisterForm.resources
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\obj\Debug\net6.0-windows\PW2.csproj.GenerateResource.cache
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\obj\Debug\net6.0-windows\PW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\obj\Debug\net6.0-windows\PW2.AssemblyInfoInputs.cache
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\obj\Debug\net6.0-windows\PW2.AssemblyInfo.cs
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\obj\Debug\net6.0-windows\PW2.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\obj\Debug\net6.0-windows\PW2.dll
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\obj\Debug\net6.0-windows\refint\PW2.dll
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\obj\Debug\net6.0-windows\PW2.pdb
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\obj\Debug\net6.0-windows\PW2.genruntimeconfig.cache
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PW2\PW2\obj\Debug\net6.0-windows\ref\PW2.dll
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\bin\Debug\net6.0-windows\PW2.exe
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\bin\Debug\net6.0-windows\PW2.deps.json
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\bin\Debug\net6.0-windows\PW2.runtimeconfig.json
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\bin\Debug\net6.0-windows\PW2.dll
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\bin\Debug\net6.0-windows\PW2.pdb
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\obj\Debug\net6.0-windows\PW2.csproj.AssemblyReference.cache
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\obj\Debug\net6.0-windows\PW2.ForgotpaswordFORM.resources
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\obj\Debug\net6.0-windows\PW2.Form1.resources
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\obj\Debug\net6.0-windows\PW2.FormCalculator.resources
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\obj\Debug\net6.0-windows\PW2.ReguisterForm.resources
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\obj\Debug\net6.0-windows\PW2.csproj.GenerateResource.cache
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\obj\Debug\net6.0-windows\PW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\obj\Debug\net6.0-windows\PW2.AssemblyInfoInputs.cache
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\obj\Debug\net6.0-windows\PW2.AssemblyInfo.cs
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\obj\Debug\net6.0-windows\PW2.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\obj\Debug\net6.0-windows\PW2.dll
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\obj\Debug\net6.0-windows\refint\PW2.dll
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\obj\Debug\net6.0-windows\PW2.pdb
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\obj\Debug\net6.0-windows\PW2.genruntimeconfig.cache
+C:\Users\jaime\OneDrive - UFV\SEGUNDO\SEGUNDO CUATRI\POO\PRACTICAS CLASE\PW2\PW2\obj\Debug\net6.0-windows\ref\PW2.dll
